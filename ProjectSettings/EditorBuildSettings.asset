@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/AltUnityTester/AltUnityTester-BindingsAndExamples(can_be_deleted)/Scenes/Scene
+      1 AltUnityDriverTestScene.unity
+    guid: b52c047743c7b4508908a92db3f971b6
+  - enabled: 0
+    path: Assets/AltUnityTester/AltUnityTester-BindingsAndExamples(can_be_deleted)/Scenes/Scene
+      2 Draggable Panel.unity
+    guid: 838436750d0cf48a685923371f66cea6
+  - enabled: 0
+    path: Assets/AltUnityTester/AltUnityTester-BindingsAndExamples(can_be_deleted)/Scenes/Scene
+      3 Drag And Drop.unity
+    guid: 40116c4af15e1444f8e21d1de1f4678f
+  - enabled: 1
+    path: Assets/scenes/MainMenu.unity
+    guid: c771ff23d29a39e47a89c6bef8bf4185
+  - enabled: 1
+    path: Assets/scenes/Instructions.unity
+    guid: 2da7aba6f81cd5b4fb7e1f813dcea963
+  - enabled: 1
+    path: Assets/scenes/Level.unity
+    guid: 75d9b6395d5c66a40841585e13c52d79
+  - enabled: 1
+    path: Assets/scenes/snakeGame.unity
+    guid: c25ad7b2ec8ab3e41aac3ef6f6fd4924
+  - enabled: 1
+    path: Assets/scenes/Result.unity
+    guid: 0befff89eebfb6d45bb876b1ae6f7f6f
+  m_configObjects: {}
